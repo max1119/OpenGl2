@@ -1,0 +1,27 @@
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.exe.config
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.exe
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.pdb
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.FreeGlut.dll
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.OpenGl.dll
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.csprojResolveAssemblyReference.cache
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.exe
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.pdb
+D:\_Desktop\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.exe.config
+D:\_Desktop\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.exe
+D:\_Desktop\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.pdb
+D:\_Desktop\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.FreeGlut.dll
+D:\_Desktop\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.OpenGl.dll
+D:\_Desktop\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.FreeGlut.dll.config
+D:\_Desktop\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.csprojResolveAssemblyReference.cache
+D:\_Desktop\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.exe
+D:\_Desktop\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.pdb
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.exe.config
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.exe
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\CGOpenGL2.pdb
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.FreeGlut.dll
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.OpenGl.dll
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\Tao.FreeGlut.dll.config
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.csprojResolveAssemblyReference.cache
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.exe
+E:\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.pdb
+D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\GlmNet.dll
