@@ -34,7 +34,13 @@ namespace CGOpenGL2
         public static float[] light1_ambient = { 1.0f, 1.0f, 1.0f, 1.0f };
         public static float[] light1_diffuse = { 0.4f, 0.7f, 0.2f, 0.0f };
         public static float[] light1_specular = { 0.0f, 1.0f, 0.0f, 1.0f };
-        public static float[] light1_position = { 0.0f, 0.0f, 1.0f, 0.0f }; 
-  
-    }
+        public static float[] light1_position = { 0.0f, 0.0f, 1.0f, 0.0f };
+
+		/*для второго источника света*/
+		public static float[] light2_ambient = { 0.0f, 0.0f, 0.0f, 1.0f };
+		public static float[] light2_diffuse = { 1.0f, 1.0f, 1.0f, 1.0f };
+		public static float[] light2_specular = { 1.0f, 1.0f, 1.0f, 1.0f };
+		public static float[] light2_position = { 0.0f, 0.0f, 1000.0f, 0.0f };
+
+	}
 }

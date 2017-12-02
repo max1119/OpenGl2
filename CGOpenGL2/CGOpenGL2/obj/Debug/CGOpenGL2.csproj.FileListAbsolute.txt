@@ -25,3 +25,4 @@ E:\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.csprojResolve
 E:\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.exe
 E:\Комп Графика\CGOpenGL2\CGOpenGL2\obj\Debug\CGOpenGL2.pdb
 D:\4 курс\Комп Графика\CGOpenGL2\CGOpenGL2\bin\Debug\GlmNet.dll
+D:\_Desktop\CGOpenGL2\CGOpenGL2\bin\Debug\GlmNet.dll

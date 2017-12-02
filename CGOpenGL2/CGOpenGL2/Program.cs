@@ -67,11 +67,11 @@ namespace CGOpenGL2
 
             Gl.glEnable(Gl.GL_LIGHTING);
             
-            Gl.glEnable(Gl.GL_LIGHT0);
+            /*Gl.glEnable(Gl.GL_LIGHT0);
             Gl.glLightfv(Gl.GL_LIGHT0, Gl.GL_AMBIENT, Parames.light0_ambient);
             Gl.glLightfv(Gl.GL_LIGHT0, Gl.GL_DIFFUSE, Parames.light0_diffuse);
             Gl.glLightfv(Gl.GL_LIGHT0, Gl.GL_SPECULAR, Parames.light0_specular);
-            Gl.glLightfv(Gl.GL_LIGHT0, Gl.GL_POSITION, Parames.light0_position);
+            Gl.glLightfv(Gl.GL_LIGHT0, Gl.GL_POSITION, Parames.light0_position);*/
 
             /*Gl.glEnable(Gl.GL_LIGHT1);
             Gl.glLightfv(Gl.GL_LIGHT1, Gl.GL_AMBIENT, Parames.light1_ambient);
@@ -79,15 +79,15 @@ namespace CGOpenGL2
             Gl.glLightfv(Gl.GL_LIGHT1, Gl.GL_SPECULAR, Parames.light1_specular);
             Gl.glLightfv(Gl.GL_LIGHT1, Gl.GL_POSITION, Parames.light1_position);*/
 
-            /*Gl.glEnable(Gl.GL_LIGHT2);
-            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_AMBIENT, Parames.light0_ambient);
-            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_DIFFUSE, Parames.light0_diffuse);
-            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_SPECULAR, Parames.light0_specular);
-            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_POSITION, Parames.light1_position);
-            float[] light2_direction = { 0.0f, 0.0f, -1.0f};
+            Gl.glEnable(Gl.GL_LIGHT2);
+            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_AMBIENT, Parames.light2_ambient);
+            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_DIFFUSE, Parames.light2_diffuse);
+            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_SPECULAR, Parames.light2_specular);
+            Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_POSITION, Parames.light2_position);
+			float[] light2_direction = { 0.0f, 0.0f, -4.0f};
             Gl.glLightfv(Gl.GL_LIGHT2, Gl.GL_SPOT_DIRECTION, light2_direction);
-            Gl.glLightf(Gl.GL_LIGHT2, Gl.GL_SPOT_CUTOFF, 180.0f);
-            Gl.glLightf(Gl.GL_LIGHT2, Gl.GL_SPOT_EXPONENT, 0.0f);*/
+            Gl.glLightf(Gl.GL_LIGHT2, Gl.GL_SPOT_CUTOFF, 0.05f);
+            Gl.glLightf(Gl.GL_LIGHT2, Gl.GL_SPOT_EXPONENT, 0.0f);
 
             Gl.glEnable(Gl.GL_DEPTH_TEST);
         }
